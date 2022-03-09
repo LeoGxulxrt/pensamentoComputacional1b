@@ -1,4 +1,4 @@
-# *pensamentoComputacional1b
-# *prof: Welington
+# *pensamentoComputacional1b*
+# *prof: Welington*
 
-# *aluno: Leonardo
+# *aluno: Leonardo*
